@@ -19,7 +19,6 @@ class IbrahimAli:
         self.university  = "Dawood University of Engineering & Technology"
         self.degree      = "BS Computer Science – 4th Semester"
         self.location    = "Karachi, Pakistan 🇵🇰"
-        self.currently   = "IBM Machine Learning Professional Certificate"
 
     def ambition(self):
         return "Build AI systems that actually matter."
