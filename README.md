@@ -74,7 +74,7 @@ class IbrahimAli:
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=smibrahimali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C00000&icon_color=C00000&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smibrahimali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C00000&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smibrahimali&theme=tokyonight&hide_border=true&background=0D1117&ring=C00000&fire=C00000&currStreakLabel=C00000"/>
+<img src="https://streak-stats.demolab.com/?user=smibrahimali&theme=tokyonight&hide_border=true&background=0D1117&ring=C00000&fire=C00000&currStreakLabel=C00000"/>
 
 </div>
 
