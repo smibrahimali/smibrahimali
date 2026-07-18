@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a0000,100:000000&height=160&text=SYED%20MUHAMMAD%20IBRAHIM%20ALI&fontSize=34&fontColor=C00000&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a0000,100:000000&height=170&text=SYED%20MUHAMMAD%20IBRAHIM%20ALI&fontSize=32&fontColor=C00000&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=2800&pause=1200&color=8B0000&background=00000000&center=true&vCenter=true&width=560&lines=training+models+in+the+dark...;BSCS+%40+Dawood+University+of+Engineering+%26+Tech;Karachi%2C+Pakistan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=15&duration=2800&pause=1200&color=8B0000&background=00000000&center=true&vCenter=true&width=560&lines=training+models+in+the+dark...;BSCS+%40+Dawood+University+of+Engineering+%26+Tech;Karachi%2C+Pakistan" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=8B0000)](https://www.linkedin.com/in/syed-muhammad-ibrahim-ali-7a4ba734b/)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=8B0000)](mailto:ialiibra2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=8B0000)](https://github.com/smibrahimali)
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=8B0000" height="28"/>&nbsp;<a href="https://www.linkedin.com/in/syed-muhammad-ibrahim-ali-7a4ba734b/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logoColor=8B0000&labelColor=000000" height="28"/></a>&nbsp;&nbsp;<a href="mailto:ialiibra2@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&labelColor=000000" height="28"/></a>&nbsp;&nbsp;<a href="https://github.com/smibrahimali"><img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&labelColor=000000" height="28"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=2&width=800"/>
 
 </div>
 
@@ -29,48 +31,47 @@ class IbrahimAli:
 
 <br/>
 
+<samp>
+
+**▍ ABOUT**
+
+BSCS student at Dawood University of Engineering & Technology, quietly obsessed with AI and machine learning — the kind of obsession that looks less like enthusiasm and more like staring at a loss curve until it makes sense.
+
+Currently working through the IBM Machine Learning Professional Certificate. Believer in shipping over theorizing.
+
+</samp>
+
+<br/>
+
 <div align="center">
-
-## ▍ ABOUT
-
-</div>
-
-BSCS student at **Dawood University of Engineering & Technology**, quietly obsessed with AI and machine learning — the kind of obsession that looks less like enthusiasm and more like staring at a loss curve until it makes sense.
-
-Currently working through the **IBM Machine Learning Professional Certificate**. Believer in shipping over theorizing.
-
-<br/>
-
-<div align="center">
-
-## ▍ STACK
-
-<br/>
-
-<img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=8B0000"/>
-<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=8B0000"/>
-<img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=8B0000"/>
-<br/>
-<img src="https://img.shields.io/badge/NUMPY-000000?style=flat-square&logo=numpy&logoColor=8B0000"/>
-<img src="https://img.shields.io/badge/PANDAS-000000?style=flat-square&logo=pandas&logoColor=8B0000"/>
-<br/>
-<img src="https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=8B0000"/>
-<img src="https://img.shields.io/badge/MONGODB-000000?style=flat-square&logo=mongodb&logoColor=8B0000"/>
-<img src="https://img.shields.io/badge/ORACLE-000000?style=flat-square&logo=oracle&logoColor=8B0000"/>
-<br/>
-<img src="https://img.shields.io/badge/VS_CODE-000000?style=flat-square&logo=visualstudiocode&logoColor=8B0000"/>
-<img src="https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=8B0000"/>
-<img src="https://img.shields.io/badge/MACOS-000000?style=flat-square&logo=apple&logoColor=8B0000"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=2&width=800"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-## ▍ ACTIVITY
+<samp>▍ STACK</samp>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,mongodb,git,vscode&theme=dark" height="42"/>
+
+</div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8B0000,100:000000&height=2&width=800"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<samp>▍ ACTIVITY</samp>
+
+<br/><br/>
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=smibrahimali&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000&icon_color=8B0000&text_color=999999&border_color=1a0000"/>
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=smibrahimali&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=8B0000&text_color=999999&border_color=1a0000"/>
@@ -87,6 +88,10 @@ Currently working through the **IBM Machine Learning Professional Certificate**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a0000,100:000000&height=90&text=let's%20build%20something.&fontSize=16&fontColor=8B0000&fontAlignY=55"/>
+<samp>&gt; connect --with=ibrahim</samp>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a0000,100:000000&height=80&width=800"/>
 
 </div>
