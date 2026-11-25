@@ -6,14 +6,14 @@
 
 ## SYED MUHAMMAD IBRAHIM ALI
 
-**Software Engineering Intern** · **Product Builder** · **Learning AI/ML**
+**CS Undergrad** &nbsp;·&nbsp; **Ex-SWE Intern** &nbsp;·&nbsp; **Building Web & AI**
 
-<sub>5th-semester BSCS @ Dawood University (DUET), Karachi — shipping real web products, testing in production, and building my foundation in AI/ML.</sub>
+<sub>5th-semester BSCS @ DUET, Karachi — shipping web products, testing in production, and building my foundation in AI/ML.</sub>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/syed-muhammad-ibrahim-ali-7a4ba734b/">
-  <img src="https://img.shields.io/badge/LINKEDIN_↗-161B22?style=for-the-badge" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN_↗-E4E4E7?style=for-the-badge" alt="LinkedIn" />
 </a>&nbsp;
 <a href="mailto:ialiibra2@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL_↗-161B22?style=for-the-badge" alt="Email" />
@@ -31,46 +31,46 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>◈ &nbsp;Scholara</b> &nbsp;
+      <b>◈ &nbsp;Scholara</b>
       <a href="https://scholara-jade-delta.vercel.app">
         <img src="https://img.shields.io/badge/LIVE_DEMO_↗-E4E4E7?style=flat-square" align="right" alt="Live Demo" />
       </a>
       <br/><br/>
-      Multi-role consultancy platform (CEO, Student, Guardian, Consultant) featuring an AI assistant and encrypted 1:1 chat &amp; call scheduling.
+      Multi-role consultancy platform with an AI assistant &amp; encrypted 1:1 chat.
       <br/><br/>
-      <code>React</code> <code>NestJS</code> <code>Supabase</code> <code>Groq LLM</code>
+      <sub><code>React</code> · <code>NestJS</code> · <code>Supabase</code> · <code>Groq LLM</code></sub>
     </td>
     <td width="50%" valign="top">
-      <b>❖ &nbsp;Tutify Portal</b> &nbsp;
+      <b>❖ &nbsp;Tutify Portal</b>
       <a href="https://portal.tutify.org/">
         <img src="https://img.shields.io/badge/PRODUCTION-21262D?style=flat-square" align="right" alt="Production" />
       </a>
       <br/><br/>
-      Shipped a teacher-facing AI chatbot integration directly into a live education portal during my Software Engineering internship <i>(private auth)</i>.
+      Teacher-facing AI chatbot shipped into a live education portal <i>(private auth)</i>.
       <br/><br/>
-      <code>TypeScript</code> <code>LLM Integration</code> <code>RBAC</code>
+      <sub><code>TypeScript</code> · <code>LLM Integration</code> · <code>RBAC</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>⊹ &nbsp;ExpenseFlow</b> &nbsp;
+      <b>⊹ &nbsp;ExpenseFlow</b>
       <a href="https://expense-tracker-tjv1-amber.vercel.app">
         <img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square" align="right" alt="Live" />
       </a>
       <br/><br/>
-      Natural-language and voice expense tracker with structured JSON extraction and real-time logging.
+      Voice &amp; natural-language expense tracker with structured JSON logging.
       <br/><br/>
-      <code>Next.js</code> <code>Supabase</code> <code>Vercel</code> <code>Groq LLM</code>
+      <sub><code>Next.js</code> · <code>Supabase</code> · <code>Vercel</code> · <code>Groq LLM</code></sub>
     </td>
     <td width="50%" valign="top">
-      <b>◎ &nbsp;Driver Drowsiness Detection</b> &nbsp;
+      <b>◎ &nbsp;Driver Drowsiness Detection</b>
       <a href="https://github.com/smibrahimali/Drowsiness_Detection_System">
         <img src="https://img.shields.io/badge/SOURCE_↗-21262D?style=flat-square" align="right" alt="Source" />
       </a>
       <br/><br/>
-      Real-time computer vision fatigue monitoring system built for my 3rd-semester AI course.
+      Real-time computer vision fatigue monitor built for 3rd-semester AI.
       <br/><br/>
-      <code>Python</code> <code>OpenCV</code> <code>Computer Vision</code>
+      <sub><code>Python</code> · <code>OpenCV</code> · <code>Computer Vision</code></sub>
     </td>
   </tr>
 </table>
@@ -81,19 +81,19 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=E4E4E7" />
 <br/>
-<img src="https://img.shields.io/badge/NestJS-161B22?style=for-the-badge&logo=nestjs&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=E4E4E7" />
-<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/NestJS-161B22?style=flat-square&logo=nestjs&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=E4E4E7" />
 
 </div>
 
