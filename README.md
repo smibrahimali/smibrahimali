@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="Syed Muhammad Ibrahim Ali" width="100%" />
+<img src="./assets/banner.svg" alt="Syed Muhammad Ibrahim Ali" width="100%" />
 
 <br/><br/><br/>
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
----
+<hr/>
 
 <br/>
 
@@ -80,7 +80,7 @@ less theorizing, more staring at a loss curve until it makes sense.
 
 <br/><br/>
 
----
+<hr/>
 
 <br/>
 
