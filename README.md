@@ -4,93 +4,118 @@
 
 <br/>
 
-### `S Y E D   M U H A M M A D   I B R A H I M   A L I`
+## SYED MUHAMMAD IBRAHIM ALI
 
-<samp>SOFTWARE ENGINEERING INTERN &nbsp;·&nbsp; PRODUCT BUILDER &nbsp;·&nbsp; LEARNING AI/ML</samp>
+**Software Engineering Intern** · **Product Builder** · **Learning AI/ML**
 
-<hr/>
-
-<samp>
-5th-semester BSCS student at Dawood University of Engineering &amp; Technology, Karachi.<br/>
-Shipping real web products, testing &amp; debugging in production, and building my foundation in AI/ML.
-</samp>
+<sub>5th-semester BSCS @ Dawood University (DUET), Karachi — shipping real web products, testing in production, and building my foundation in AI/ML.</sub>
 
 <br/><br/>
 
-<sub><samp>🌑 &nbsp; S E L E C T E D &nbsp; W O R K</samp></sub>
+<a href="https://www.linkedin.com/in/syed-muhammad-ibrahim-ali-7a4ba734b/">
+  <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=E4E4E7" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:ialiibra2@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=E4E4E7" alt="Email" />
+</a>&nbsp;
+<a href="https://github.com/smibrahimali?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=E4E4E7" alt="Repositories" />
+</a>
 
-<br/><br/>
+</div>
 
-<samp>🏛️ &nbsp;<b><a href="https://scholara-jade-delta.vercel.app">Scholara</a></b> &nbsp;·&nbsp; <i>Live Demo</i></samp><br/>
-<samp>Multi-role consultancy platform (CEO, Student, Guardian, Consultant) with an AI assistant &amp; encrypted 1:1 chat.</samp><br/>
-<sub><code>React</code> &nbsp;·&nbsp; <code>NestJS</code> &nbsp;·&nbsp; <code>Supabase</code> &nbsp;·&nbsp; <code>Groq LLM</code></sub>
+<br/>
 
-<br/><br/>
+### 🌑 Selected Work
 
-<samp>🔒 &nbsp;<b><a href="https://portal.tutify.org/">Tutify Portal</a></b> &nbsp;·&nbsp; <i>Production · Private Auth</i></samp><br/>
-<samp>Shipped a teacher-facing AI chatbot integration inside a live education portal during my SWE internship.</samp><br/>
-<sub><code>TypeScript</code> &nbsp;·&nbsp; <code>LLM Integration</code> &nbsp;·&nbsp; <code>Role-Based Access</code></sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏛️ Scholara</b> &nbsp;
+      <a href="https://scholara-jade-delta.vercel.app">
+        <img src="https://img.shields.io/badge/LIVE_DEMO_↗-E4E4E7?style=flat-square&labelColor=0D1117" align="right" alt="Live Demo" />
+      </a>
+      <br/><br/>
+      Multi-role consultancy platform (CEO, Student, Guardian, Consultant) featuring an AI assistant and encrypted 1:1 chat &amp; call scheduling.
+      <br/><br/>
+      <code>React</code> <code>NestJS</code> <code>Supabase</code> <code>Groq LLM</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>🔒 Tutify Portal</b> &nbsp;
+      <a href="https://portal.tutify.org/">
+        <img src="https://img.shields.io/badge/PRODUCTION-21262D?style=flat-square" align="right" alt="Production" />
+      </a>
+      <br/><br/>
+      Shipped a teacher-facing AI chatbot integration directly into a live education portal during my Software Engineering internship <i>(private auth)</i>.
+      <br/><br/>
+      <code>TypeScript</code> <code>LLM Integration</code> <code>RBAC</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚡ ExpenseFlow</b> &nbsp;
+      <a href="https://expense-tracker-tjv1-amber.vercel.app">
+        <img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square&labelColor=0D1117" align="right" alt="Live" />
+      </a>
+      <br/><br/>
+      Natural-language and voice expense tracker with structured JSON extraction and real-time logging.
+      <br/><br/>
+      <code>Next.js</code> <code>Supabase</code> <code>Vercel</code> <code>Groq LLM</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>👁️ Driver Drowsiness Detection</b> &nbsp;
+      <a href="https://github.com/smibrahimali/Drowsiness_Detection_System">
+        <img src="https://img.shields.io/badge/SOURCE_↗-21262D?style=flat-square" align="right" alt="Source" />
+      </a>
+      <br/><br/>
+      Real-time computer vision fatigue monitoring system built for my 3rd-semester AI course.
+      <br/><br/>
+      <code>Python</code> <code>OpenCV</code> <code>Computer Vision</code>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<samp>⚡ &nbsp;<b><a href="https://expense-tracker-tjv1-amber.vercel.app">ExpenseFlow</a></b> &nbsp;·&nbsp; <i>Live</i></samp><br/>
-<samp>Natural-language &amp; voice expense tracker with structured JSON extraction and real-time logging.</samp><br/>
-<sub><code>Next.js</code> &nbsp;·&nbsp; <code>Supabase</code> &nbsp;·&nbsp; <code>Vercel</code> &nbsp;·&nbsp; <code>Groq LLM</code></sub>
+### ⚙️ Stack
 
-<br/><br/>
+<div align="center">
 
-<samp>👁️ &nbsp;<b><a href="https://github.com/smibrahimali/Drowsiness_Detection_System">Driver Drowsiness Detection</a></b> &nbsp;·&nbsp; <i>Open Source</i></samp><br/>
-<samp>Real-time computer vision fatigue monitoring system built for my 3rd-semester AI course.</samp><br/>
-<sub><code>Python</code> &nbsp;·&nbsp; <code>OpenCV</code> &nbsp;·&nbsp; <code>Computer Vision</code></sub>
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/NestJS-161B22?style=for-the-badge&logo=nestjs&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=E4E4E7" />
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=E4E4E7" />
 
-<br/><br/>
+</div>
 
-<sub><samp>⚙️ &nbsp; S T A C K</samp></sub>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-<samp>
-<sub><b>LANGUAGES</b> &nbsp;—&nbsp; Python · TypeScript · Java · C++ · SQL</sub><br/>
-<sub><b>WEB &amp; BACKEND</b> &nbsp;—&nbsp; React · Next.js · NestJS · FastAPI · Supabase</sub><br/>
-<sub><b>TOOLS &amp; AI</b> &nbsp;—&nbsp; Groq LLM · Git · Vercel · MongoDB · MySQL</sub>
-</samp>
+<img src="https://raw.githubusercontent.com/smibrahimali/smibrahimali/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
-<br/><br/>
+<br/>
 
 <details>
-<summary><sub><samp>📡 &nbsp; T E L E M E T R Y &nbsp; &amp; &nbsp; A C T I V I T Y</samp></sub></summary>
+<summary><sub><code>📡 TELEMETRY &amp; STATS</code></sub></summary>
 
 <br/>
 
 <img height="150" src="https://github-stats-extended.vercel.app/api?username=smibrahimali&show_icons=true&theme=dark&hide_border=false&bg_color=0D1117&border_color=21262D&title_color=E4E4E7&icon_color=8B949E&text_color=8B949E"/>
 <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=smibrahimali&layout=compact&theme=dark&hide_border=false&bg_color=0D1117&border_color=21262D&title_color=E4E4E7&text_color=8B949E"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=smibrahimali&theme=dark&hide_border=false&background=0D1117&border_color=21262D&stroke=21262D&ring=E4E4E7&fire=E4E4E7&currStreakLabel=E4E4E7&currStreakNum=E4E4E7&sideLabels=8B949E&sideNums=E4E4E7&dates=6E7681"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/smibrahimali/smibrahimali/output/github-contribution-grid-snake-dark.svg"/>
-
 </details>
 
 <br/>
 
-<hr/>
-
-<br/>
-
-<sub>
-<samp>
-<a href="https://www.linkedin.com/in/syed-muhammad-ibrahim-ali-7a4ba734b/">LINKEDIN</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="mailto:ialiibra2@gmail.com">EMAIL</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="https://github.com/smibrahimali?tab=repositories">REPOSITORIES</a>
-</samp>
-</sub>
-
-<br/><br/>
-
-<sub><samp>KARACHI, PAKISTAN &nbsp;·&nbsp; OPEN TO SWE &amp; AI/ML INTERNSHIPS</samp></sub>
+<sub>KARACHI, PAKISTAN &nbsp;·&nbsp; OPEN TO SWE &amp; AI/ML INTERNSHIPS</sub>
 
 </div>
