@@ -4,9 +4,7 @@
 
 <br/>
 
-## SYED MUHAMMAD IBRAHIM ALI
-
-**CS Undergrad** &nbsp;·&nbsp; **Ex-SWE Intern** &nbsp;·&nbsp; **Building Web & AI**
+<img src="./assets/header.svg" alt="Syed Muhammad Ibrahim Ali — CS Undergrad · Ex-SWE Intern · Building Web &amp; AI" width="100%" />
 
 <sub>5th-semester BSCS @ DUET, Karachi — shipping web products, testing in production, and building my foundation in AI/ML.</sub>
 
