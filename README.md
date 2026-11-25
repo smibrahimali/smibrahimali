@@ -13,27 +13,27 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/syed-muhammad-ibrahim-ali-7a4ba734b/">
-  <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=E4E4E7" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN_↗-161B22?style=for-the-badge" alt="LinkedIn" />
 </a>&nbsp;
 <a href="mailto:ialiibra2@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=E4E4E7" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL_↗-161B22?style=for-the-badge" alt="Email" />
 </a>&nbsp;
 <a href="https://github.com/smibrahimali?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=E4E4E7" alt="Repositories" />
+  <img src="https://img.shields.io/badge/REPOSITORIES_↗-161B22?style=for-the-badge" alt="Repositories" />
 </a>
 
 </div>
 
 <br/>
 
-### 🌑 Selected Work
+### ✦ Selected Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>🏛️ Scholara</b> &nbsp;
+      <b>◈ &nbsp;Scholara</b> &nbsp;
       <a href="https://scholara-jade-delta.vercel.app">
-        <img src="https://img.shields.io/badge/LIVE_DEMO_↗-E4E4E7?style=flat-square&labelColor=0D1117" align="right" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/LIVE_DEMO_↗-E4E4E7?style=flat-square" align="right" alt="Live Demo" />
       </a>
       <br/><br/>
       Multi-role consultancy platform (CEO, Student, Guardian, Consultant) featuring an AI assistant and encrypted 1:1 chat &amp; call scheduling.
@@ -41,7 +41,7 @@
       <code>React</code> <code>NestJS</code> <code>Supabase</code> <code>Groq LLM</code>
     </td>
     <td width="50%" valign="top">
-      <b>🔒 Tutify Portal</b> &nbsp;
+      <b>❖ &nbsp;Tutify Portal</b> &nbsp;
       <a href="https://portal.tutify.org/">
         <img src="https://img.shields.io/badge/PRODUCTION-21262D?style=flat-square" align="right" alt="Production" />
       </a>
@@ -53,9 +53,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>⚡ ExpenseFlow</b> &nbsp;
+      <b>⊹ &nbsp;ExpenseFlow</b> &nbsp;
       <a href="https://expense-tracker-tjv1-amber.vercel.app">
-        <img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square&labelColor=0D1117" align="right" alt="Live" />
+        <img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square" align="right" alt="Live" />
       </a>
       <br/><br/>
       Natural-language and voice expense tracker with structured JSON extraction and real-time logging.
@@ -63,7 +63,7 @@
       <code>Next.js</code> <code>Supabase</code> <code>Vercel</code> <code>Groq LLM</code>
     </td>
     <td width="50%" valign="top">
-      <b>👁️ Driver Drowsiness Detection</b> &nbsp;
+      <b>◎ &nbsp;Driver Drowsiness Detection</b> &nbsp;
       <a href="https://github.com/smibrahimali/Drowsiness_Detection_System">
         <img src="https://img.shields.io/badge/SOURCE_↗-21262D?style=flat-square" align="right" alt="Source" />
       </a>
@@ -77,7 +77,7 @@
 
 <br/>
 
-### ⚙️ Stack
+### ✦ Stack
 
 <div align="center">
 
@@ -87,6 +87,7 @@
 <img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=E4E4E7" />
 <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=E4E4E7" />
 <img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=E4E4E7" />
+<br/>
 <img src="https://img.shields.io/badge/NestJS-161B22?style=for-the-badge&logo=nestjs&logoColor=E4E4E7" />
 <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=E4E4E7" />
 <img src="https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=E4E4E7" />
@@ -105,7 +106,7 @@
 <br/>
 
 <details>
-<summary><sub><code>📡 TELEMETRY &amp; STATS</code></sub></summary>
+<summary><sub><code>✦ TELEMETRY &amp; STATS</code></sub></summary>
 
 <br/>
 
