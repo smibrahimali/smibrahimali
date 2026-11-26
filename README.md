@@ -39,8 +39,7 @@
             <b>❖ &nbsp;Tutify Portal</b>
           </td>
           <td align="right" valign="middle" nowrap>
-            <a href="https://portal.tutify.org/"><img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square" alt="Live Portal" /></a>&nbsp;
-            <a href="https://github.com/smibrahimali/tutify-teacher-ai-case-study"><img src="https://img.shields.io/badge/CASE_STUDY_↗-21262D?style=flat-square" alt="Case Study" /></a>
+            <a href="https://github.com/smibrahimali/tutify-teacher-ai-case-study"><img src="https://img.shields.io/badge/CASE_STUDY_↗-E4E4E7?style=flat-square" alt="Case Study" /></a>
           </td>
         </tr>
       </table>
