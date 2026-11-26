@@ -23,56 +23,90 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
+<br/>
 
 ### ✦ Selected Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>◈ &nbsp;Scholara</b>
-      <a href="https://scholara-jade-delta.vercel.app">
-        <img src="https://img.shields.io/badge/LIVE_DEMO_↗-E4E4E7?style=flat-square" align="right" alt="Live Demo" />
-      </a>
+      <table width="100%">
+        <tr>
+          <td valign="middle">
+            <b>❖ &nbsp;<a href="https://github.com/smibrahimali/tutify-teacher-ai-case-study">Tutify Portal</a></b>
+          </td>
+          <td align="right" valign="middle" nowrap>
+            <a href="https://portal.tutify.org/"><img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square" alt="Live Portal" /></a>&nbsp;
+            <a href="https://github.com/smibrahimali/tutify-teacher-ai-case-study"><img src="https://img.shields.io/badge/CASE_STUDY_↗-21262D?style=flat-square" alt="Case Study" /></a>
+          </td>
+        </tr>
+      </table>
+      <br/>
+      AI teaching assistant (MaryamBot) shipped into a live education portal <i>(private auth)</i>.
       <br/><br/>
-      Multi-role consultancy platform with an AI assistant &amp; encrypted 1:1 chat.
-      <br/><br/>
-      <sub><code>React</code> · <code>NestJS</code> · <code>Supabase</code> · <code>Groq LLM</code></sub>
+      <sub><code>Next.js</code> · <code>TypeScript</code> · <code>Supabase RLS</code> · <code>Groq LLM</code></sub>
     </td>
     <td width="50%" valign="top">
-      <b>❖ &nbsp;Tutify Portal</b>
-      <a href="https://portal.tutify.org/">
-        <img src="https://img.shields.io/badge/PRODUCTION-21262D?style=flat-square" align="right" alt="Production" />
-      </a>
+      <table width="100%">
+        <tr>
+          <td valign="middle">
+            <b>◈ &nbsp;<a href="https://github.com/smibrahimali/scholara-platform-case-study">Scholara</a></b>
+          </td>
+          <td align="right" valign="middle" nowrap>
+            <a href="https://scholara-jade-delta.vercel.app"><img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square" alt="Live Demo" /></a>&nbsp;
+            <a href="https://github.com/smibrahimali/scholara-platform-case-study"><img src="https://img.shields.io/badge/CASE_STUDY_↗-21262D?style=flat-square" alt="Case Study" /></a>
+          </td>
+        </tr>
+      </table>
+      <br/>
+      Multi-role admissions platform with Groq scheduling, private chat &amp; WebRTC calls.
       <br/><br/>
-      Teacher-facing AI chatbot shipped into a live education portal <i>(private auth)</i>.
-      <br/><br/>
-      <sub><code>TypeScript</code> · <code>LLM Integration</code> · <code>RBAC</code></sub>
+      <sub><code>React</code> · <code>NestJS</code> · <code>Supabase</code> · <code>Groq LLM</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>⊹ &nbsp;ExpenseFlow</b>
-      <a href="https://expense-tracker-tjv1-amber.vercel.app">
-        <img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square" align="right" alt="Live" />
-      </a>
-      <br/><br/>
+      <table width="100%">
+        <tr>
+          <td valign="middle">
+            <b>⊹ &nbsp;ExpenseFlow</b>
+          </td>
+          <td align="right" valign="middle" nowrap>
+            <a href="https://expense-tracker-tjv1-amber.vercel.app"><img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square" alt="Live" /></a>
+          </td>
+        </tr>
+      </table>
+      <br/>
       Voice &amp; natural-language expense tracker with structured JSON logging.
       <br/><br/>
-      <sub><code>Next.js</code> · <code>Supabase</code> · <code>Vercel</code> · <code>Groq LLM</code></sub>
+      <sub><code>Next.js</code> · <code>NestJS</code> · <code>Supabase</code> · <code>Groq LLM</code></sub>
     </td>
     <td width="50%" valign="top">
-      <b>◎ &nbsp;Driver Drowsiness Detection</b>
-      <a href="https://github.com/smibrahimali/Drowsiness_Detection_System">
-        <img src="https://img.shields.io/badge/SOURCE_↗-21262D?style=flat-square" align="right" alt="Source" />
-      </a>
-      <br/><br/>
-      Real-time computer vision fatigue monitor built for 3rd-semester AI.
+      <table width="100%">
+        <tr>
+          <td valign="middle">
+            <b>◎ &nbsp;Driver Drowsiness Detection</b>
+          </td>
+          <td align="right" valign="middle" nowrap>
+            <a href="https://github.com/smibrahimali/Drowsiness_Detection_System"><img src="https://img.shields.io/badge/SOURCE_↗-21262D?style=flat-square" alt="Source" /></a>
+          </td>
+        </tr>
+      </table>
+      <br/>
+      Real-time computer-vision fatigue monitor built for 3rd-semester AI.
       <br/><br/>
       <sub><code>Python</code> · <code>OpenCV</code> · <code>Computer Vision</code></sub>
     </td>
   </tr>
 </table>
 
+<br/>
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
 <br/>
 
 ### ✦ Stack
@@ -96,6 +130,10 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
+<br/>
 
 <div align="center">
 
@@ -116,5 +154,9 @@
 <br/>
 
 <sub>KARACHI, PAKISTAN &nbsp;·&nbsp; OPEN TO SWE &amp; AI/ML INTERNSHIPS</sub>
+
+<br/>
+
+<img src="./assets/status-rule.svg" alt="" />
 
 </div>
