@@ -36,7 +36,7 @@
       <table width="100%">
         <tr>
           <td valign="middle">
-            <b>❖ &nbsp;<a href="https://github.com/smibrahimali/tutify-teacher-ai-case-study">Tutify Portal</a></b>
+            <b>❖ &nbsp;Tutify Portal</b>
           </td>
           <td align="right" valign="middle" nowrap>
             <a href="https://portal.tutify.org/"><img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square" alt="Live Portal" /></a>&nbsp;
@@ -53,7 +53,7 @@
       <table width="100%">
         <tr>
           <td valign="middle">
-            <b>◈ &nbsp;<a href="https://github.com/smibrahimali/scholara-platform-case-study">Scholara</a></b>
+            <b>◈ &nbsp;Scholara</b>
           </td>
           <td align="right" valign="middle" nowrap>
             <a href="https://scholara-jade-delta.vercel.app"><img src="https://img.shields.io/badge/LIVE_↗-E4E4E7?style=flat-square" alt="Live Demo" /></a>&nbsp;
